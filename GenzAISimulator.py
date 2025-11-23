@@ -9,7 +9,8 @@ def Getresponse(user_input):
 "hi": "Hey bestie!,✨",
 "play":"Ooo want to play GenZ Life Simulator with me? (yes/no)",
 "how are you": "I’m vibing, wbu?🤗",
-"bye": "Aww, see you soon😔 "
+"bye": "Aww, see you soon😔 ",
+"want to eat": "You can eat burger or pizza right now"
 }
   return responses.get(user_input,"Hmm..Idk what to say🧐")
 
